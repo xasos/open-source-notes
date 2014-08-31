@@ -19,3 +19,4 @@ Have you or someone you know open-sourced your school notes as well? Simply clon
 
 ## License
 [MIT License](LICENSE)
+@shivum
