@@ -12,6 +12,7 @@ I've seen a growing number of open-sourced school notes repositories, so here is
 * [School by @xasos](https://github.com/xasos/school)
 * [School by @UnitedJayMo](https://github.com/UnitedJayMo/School)
 * [StefansFreshmanYearNotes by @coldsauce](https://github.com/ColdSauce/StefansFreshmanYearNotes)
+* [Stufts by @lyra833](https://github.com/lyra833/Stufts)
 
 ## Contributing
 
