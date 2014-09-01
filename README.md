@@ -2,7 +2,7 @@ open-source-notes
 =================
 
 ## What is this?
-I've seen a growing number of school repositories, so here is a compilation of all of them.
+I've seen a growing number of open-sourced school notes repositories, so here is a compilation of all of them.
 
 ## List
 * [School by @zachlatta](https://github.com/zachlatta/school)
@@ -15,7 +15,7 @@ I've seen a growing number of school repositories, so here is a compilation of a
 
 ## Contributing
 
-Have you or someone you know open-sourced your school notes as well? Simply clone this repo, add the link to your school repository, and submit a PR!
+Have you or someone you know open-sourced their school notes as well? Simply clone this repo, add the link to the repo, and submit a PR!
 
 ## License
 [MIT License](LICENSE)
